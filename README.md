@@ -10,4 +10,4 @@
 - CSS3
 - JavaScript
 - template from HTML5 UP
-- smidges of jQuery, Scrollex & Responsive Tools
+- smidges of jQuery, Scrollex, Sass, & Responsive Tools
